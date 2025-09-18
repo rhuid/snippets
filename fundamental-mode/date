@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: date (choose format)
+# key: dd
+# --
+`(format-time-string (cdr (assoc (yas-choose-value (rh/date-format-candidates))
+                                 (rh/date-format-candidates))))`
