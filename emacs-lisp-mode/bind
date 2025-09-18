@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: bind
+# key: bind
+# --
+("$1" . $2)
+$0
