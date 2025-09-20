@@ -1,7 +1,5 @@
 # -*- mode: snippet -*-
 # name: docstring-block
-# key: /--
+# key: doc
 # --
-/--
-$1
--/
+/-- $1 -/
