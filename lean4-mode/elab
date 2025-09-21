@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: elab
+# key: elab
+# --
+elab "$1" $2 : ${3:tactic} => $4
