@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: proposition
+# key: prop
+# --
+\begin{proposition}
+  $1
+\end{proposition}

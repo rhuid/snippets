@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: header
+# key: header
+# --
+#+TITLE:   ${1:title}
+#+AUTHOR:  ${2:Ronald Huidrom}
+#+EMAIL:   ${3:ronhuidrom@gmail.com}
+#+DATE:    ${4:<dd>}
+#+STARTUP: overview
+#+STARTUP: indent
+#+OPTIONS: toc:2
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+LATEX_HEADER: \\usepackage[margin=1.2in]{geometry}
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+$0
