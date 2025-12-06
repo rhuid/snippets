@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: src-lean4
+# key: lean
+# --
+#+BEGIN_SRC lean4
+$1
+#+END_SRC
+$0
