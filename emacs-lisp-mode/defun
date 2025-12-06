@@ -4,6 +4,6 @@
 # --
 (defun ${1:name} ($2)
   "${3:docstring}"
-  (interactive)
-  $4
+  (interactive "${4:p}")
+  $5
   )
