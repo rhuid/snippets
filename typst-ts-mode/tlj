@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: turnstile-lambda-J
+# key: tlj
+# --
+tack.r_(lambda J)
