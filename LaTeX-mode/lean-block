@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: lean-block
+# key: lb
+# --
+\begin{leanblock}
+$1
+\end{leanblock}
+$0

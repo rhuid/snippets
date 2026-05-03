@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: inline-lean
+# key: ll
+# --
+\lean{$1} $0

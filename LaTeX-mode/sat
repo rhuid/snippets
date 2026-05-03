@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: satisfiable assignment
+# key: sat
+# --
+\$(p := $1, q := $2, r := $3)\$

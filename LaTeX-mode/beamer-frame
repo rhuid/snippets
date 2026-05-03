@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: beamer-frame
+# key: frame
+# --
+\frame{
+  \frametitle{$1}
+  $0
+}

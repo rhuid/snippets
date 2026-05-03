@@ -1,0 +1,32 @@
+# -*- mode: snippet -*-
+# name: header
+# key: header
+# --
+
+\documentclass[11pt, oneside]{article}
+\usepackage{/home/ronald/gits/tex-craft/${1:spring}}
+
+\title{$2}
+\author{Ronald Huidrom}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+% \begin{abstract}
+% \end{abstract}
+
+% \vfill
+% \tableofcontents
+% \vfill
+
+% \clearpage
+% \section{Introduction}
+
+$0
+
+% \bibliography{references}
+% \nocite{*}
+% \bibliographystyle{alpha}
+
+\end{document}
